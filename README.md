@@ -1,2 +1,2 @@
 # ProgramacionServiciosYProcesos
-practicas de programación de servicios y procesos
+prácticas de programación de servicios y procesos
